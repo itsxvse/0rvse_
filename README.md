@@ -29,6 +29,6 @@ Built entirely in Python, RadiiBurn delivers quick insights into your Basal Meta
 
 ## 👨‍💻 Developed by 0rvse_
 
-**@your_username** from Algeria 🇩🇿  
+**@0rvse_** from Algeria 🇩🇿  
 Part of the *Radiyyin Movement* 🛡️🔥  
 All rights reserved – For educational and personal use only.
